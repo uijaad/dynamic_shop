@@ -41,8 +41,10 @@ https://uijaad.github.io/dynamic_shop/
 
 ### Store Items
 <img width="1871" height="895" alt="Screenshot 2025-12-01 at 4 16 28 PM" src="https://github.com/user-attachments/assets/0e147b6c-1e94-4963-8a49-e91e4cb62043" />
+
 ### Search Function
 <img width="1871" height="895" alt="Screenshot 2025-12-01 at 4 17 41 PM" src="https://github.com/user-attachments/assets/4be2f341-cf11-4724-80c4-bb4f55deadef" />
+
 ### Delete Item & Add Random Item
 <img width="835" height="263" alt="Screenshot 2025-12-01 at 4 19 08 PM" src="https://github.com/user-attachments/assets/0cd9259a-ab6b-470c-b2f7-dd3fc1d79ceb" />
 
