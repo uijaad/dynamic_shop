@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Dynamic Shop</title>
+</head>
+<body>
+    <div class="upSection">
+    <div class="sort-container">
+        <input type="text" id="searchInput" placeholder="Search...">
+
+        <select id="sortSelect">
+          <option value="all">All</option>
+          <option value="priceLow">Price: Low → High</option>
+          <option value="priceHigh">Price: High → Low</option>
+          <option value="nameAZ">Name: A → Z</option>
+          <option value="nameZA">Name: Z → A</option>
+          <option value="electronics">Electronics</option>
+          <option value="accessories">Accessories</option>
+          
+        </select>
+      </div>
+    </div>
+
+      <div class="shopParent" id="shopParent">
+        
+      </div>
+      <center>
+      <div class="line"></div>
+      </center>
+      <div class="bottomSection">
+        <div class="deleteContainer">
+          <input type="number" placeholder="Enter Product ID" id="productIdInput">
+          <button id="deleteBtn">Delete Product</button>
+          <button onclick="addRandomProduct()">Add Random Product</button>
+        </div>
+      </div>
+      <script src="js/main.js"></script>
+</body>
+</html>
